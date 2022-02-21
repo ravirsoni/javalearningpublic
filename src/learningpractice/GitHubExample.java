@@ -9,6 +9,6 @@ public class GitHubExample {
 		
 		}
 	static void methodWithParams(String a) {
-		System.out.println("method parameter is : "+a);
+		System.out.println("method parameter is is : "+a);
 	}
 }
