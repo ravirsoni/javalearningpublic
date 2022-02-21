@@ -6,7 +6,5 @@ public class TernaryExample {
 		int b = 20;
 		String result = (a > b) ? " a is bigger number " : "b is bigger number";
 		System.out.println("result of comparision using ternary opertation is :" + result);
-	
-	
 	}
 }
